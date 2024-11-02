@@ -2,7 +2,7 @@
 
 link: https://space-invaders-eight-gold.vercel.app/
 
-⚠️ instruções! ⚠️
+## ⚠️ instruções! ⚠️
 
 Tecla 'A' para mover para esquerda, 'D' para mover para a direita;
 
