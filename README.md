@@ -1,4 +1,4 @@
-# space-invaders
+# SPACE INVADERS
 
 link: https://space-invaders-eight-gold.vercel.app/
 
