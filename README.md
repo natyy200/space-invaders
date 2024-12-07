@@ -1,4 +1,4 @@
-# SPACE INVADERS
+# SPACE INVADERS 🕹️
 
 ## ❖ instruções! ❖
 
